@@ -1,0 +1,41 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: monospace;
+}
+
+#wrapper {
+    width: 100%;
+    height: 100%;
+}
+
+#helloDiv {
+    display: flex;
+    justify-content: center;
+    margin-top: 5vh;
+}
+
+#pic {
+    border-radius: 50%;
+}
+
+#details {
+    display: flex;
+    justify-content: center;
+    margin-top: 5vh;
+    text-align: center;
+}
+
+#social {
+    display: flex;
+    justify-content: center;
+}
+
+.icon {
+    background-color: white;
+    max-width: 50px;
+    max-height: auto;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 25%;
+}

@@ -23,8 +23,10 @@ body {
 #details {
     display: flex;
     justify-content: center;
-    margin-top: 5vh;
+    margin: 5vh 1vw 5vh 1vw;
+    
     text-align: center;
+    
 }
 
 #social {

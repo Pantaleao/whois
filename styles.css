@@ -2,6 +2,7 @@ body {
     background-color: black;
     color: white;
     font-family: monospace;
+    font-size: 0.9rem;
 }
 
 #wrapper {

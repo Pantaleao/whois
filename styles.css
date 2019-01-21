@@ -24,9 +24,7 @@ body {
     display: flex;
     justify-content: center;
     margin: 5vh 1vw 5vh 1vw;
-    
     text-align: center;
-    
 }
 
 #social {
@@ -41,4 +39,22 @@ body {
     margin-left: 10px;
     margin-right: 10px;
     border-radius: 25%;
+}
+
+.icon:hover {
+    transform: scale(1.1)
+}
+
+#cv {
+    text-align: center;
+    margin-top: 10px;
+}
+
+#cv a {
+    color: darkgrey;
+    text-decoration: none;
+}
+
+#cv a:hover {
+    color: darkslategray;
 }

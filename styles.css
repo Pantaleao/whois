@@ -23,13 +23,19 @@ body {
 .details {
     display: flex;
     justify-content: center;
-    margin: 5vh 1vw 5vh 1vw;
+    margin: 5vh 1vw 0 1vw;
     text-align: center;
 }
 
 .social {
     display: flex;
     justify-content: center;
+}
+
+.tryhackme {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 2vh;
 }
 
 .icon {

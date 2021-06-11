@@ -30,12 +30,7 @@ body {
 .social {
     display: flex;
     justify-content: center;
-}
-
-.tryhackme {
-    display: flex;
-    justify-content: center;
-    padding-bottom: 2vh;
+    padding: 2vh 0 2vh;
 }
 
 .icon {

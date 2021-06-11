@@ -30,7 +30,7 @@ body {
 .social {
     display: flex;
     justify-content: center;
-    padding: 2vh 0 2vh;
+    padding-top: 2vh;
 }
 
 .icon {
